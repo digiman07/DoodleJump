@@ -10,4 +10,3 @@
 
 **Game Screen**
 ![alt text](https://raw.githubusercontent.com/digiman07/DoodleJump/main/Assets/Images/DoodleJumpMain.png)
-git clone https://github.com/Louis3797/awesome-readme-template.git
