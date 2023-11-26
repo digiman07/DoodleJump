@@ -9,4 +9,4 @@
 ![alt text](https://raw.githubusercontent.com/digiman07/DoodleJump/main/Assets/Images/DoodleJump%20Menu.png)
 
 **Game Screen**
-![alt text](https://github.com/digiman07/DoodleJump/blob/main/Assets/Images/DoodleJumpMain.png)
+![alt text](https://raw.githubusercontent.com/digiman07/DoodleJump/main/Assets/Images/DoodleJumpMain.png)
