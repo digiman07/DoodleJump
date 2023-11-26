@@ -10,5 +10,3 @@
 
 **Game Screen**
 ![alt text](https://raw.githubusercontent.com/digiman07/DoodleJump/main/Assets/Images/DoodleJumpMain.png)
-
-<iframe src="https://steppingstonessupport.com/doodlejump" height="200" width="300" title="Iframe Example"></iframe>
