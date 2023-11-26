@@ -12,8 +12,5 @@
 ![alt text](https://raw.githubusercontent.com/digiman07/DoodleJump/main/Assets/Images/DoodleJumpMain.png)
 
 <div align='center'>
-
-<h4> <a href=https://digiman07.github.io/DoodleJump/WebGL/>View Demo</a> <span> · </span> <a href="https://github.com/malcolm.hough@hotmail.com/DoodleJump/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/malcolm.hough@hotmail.com/DoodleJump/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/malcolm.hough@hotmail.com/DoodleJump/issues"> Request Feature </a> </h4>
-
-
+<h4> <a href=https://digiman07.github.io/DoodleJump/WebGL/>View Demo</a>
 </div>
