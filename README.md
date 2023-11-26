@@ -6,7 +6,7 @@
 - [**Download**](https://github.com/digiman07/DoodleJump/archive/refs/heads/main.zip)
 
 **Menu Screen**
-![alt text](https://github.com/digiman07/DoodleJump/blob/main/Assets/Images/)DoodleJumpMenu.png)
+![alt text](https://github.com/digiman07/DoodleJump/blob/main/Assets/DoodleJumpMenu.png)
 
 **Game Screen**
 ![alt text](https://github.com/digiman07/DoodleJump/blob/main/Assets/Images/DoodleJumpMain.png)
