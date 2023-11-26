@@ -10,9 +10,5 @@
 
 **Game Screen**
 ![alt text](https://raw.githubusercontent.com/digiman07/DoodleJump/main/Assets/Images/DoodleJumpMain.png)
-<div align='center'>
 
-<h4> <a href=https://steppingstonessupport.com/doodlejump/>View Demo</a> <span> · </span> <a href="https://github.com/malcolm.hough@hotmail.com/DoodleJump/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/malcolm.hough@hotmail.com/DoodleJump/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/malcolm.hough@hotmail.com/DoodleJump/issues"> Request Feature </a> </h4>
-
-
-</div>
+<iframe src="https://steppingstonessupport.com/doodlejump" height="200" width="300" title="Iframe Example"></iframe>
