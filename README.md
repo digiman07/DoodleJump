@@ -14,4 +14,3 @@
 <div align='center'>
 <h4> <a href="https://digiman07.github.io/DoodleJump/WebGL/" target="_blank" rel="noopener noreferrer">View Demo</a>
 </div>
-[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
