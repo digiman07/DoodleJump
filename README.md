@@ -11,6 +11,6 @@
 **Game Screen**
 ![alt text](https://raw.githubusercontent.com/digiman07/DoodleJump/main/Assets/Images/DoodleJumpMain.png)
 
-<p align='center'>
+<div align="center">
 <h4> <a href="https://digiman07.github.io/DoodleJump/WebGL/" target="_blank" rel="noopener noreferrer">View Demo</a> </h4>
-</p>
+</div>
